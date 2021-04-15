@@ -1,6 +1,6 @@
 # Enron_Fraud_Project
 
-[**Project Report**](https://htmlpreview.github.io/?https://github.com/PetzMcPetz/Enron_Fraud_Project/blob/main/final_project/Enron_Project_v1.html)
+[**Project Report**](https://htmlpreview.github.io/?https://github.com/PetzMcPetz/Enron_Fraud_Project/blob/main/final_project/Enron_Project_v2.html)
 
 The project report shows the html export of the jupyter notebook *Enron_Project_v2.ipynb*.
 Please note that the poi_id_v2.py contains only functions which are imported and used in Enron_Project_v2.ipynb.  
